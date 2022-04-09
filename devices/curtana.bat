@@ -1,6 +1,6 @@
 rem This file has instrutions for downloading a suitable recovery for curtana devices.
 rem Recovery is TWRP 3.6.0_11 FBE v2 UNOFFICIAL by meganukebmp
-rem This is the only one recovery that properly responds to command "twrp sideload
+rem This is the only recovery that properly responds to command "twrp sideload"
 rem "cd %~dp0..\..\..\" - returns the programm to the root folder of the programm
 cd %~dp0..\..\..\
 mkdir %cd%\compatibility\temp
