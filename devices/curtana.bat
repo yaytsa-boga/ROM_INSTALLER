@@ -12,3 +12,4 @@ mkdir %cd%\compatibility\temp   >nul 2>&1
 %cd%\curl\curl -L "https://drive.google.com/uc?export=download&id=15yTYuMU5oR5Rh_dhwI0EASIF6ZrtQH__" -o %cd%\compatibility\temp\curtana.7z.002   >nul 2>&1
 %cd%\7zip\7z  x %cd%\compatibility\temp\curtana.7z.001  -o%cd%\recovery   >nul 2>&1
 rd /s /q %cd%\compatibility\temp   >nul 2>&1
+echo READY > %cd%\compatibility\ready
