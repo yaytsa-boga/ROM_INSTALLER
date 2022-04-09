@@ -3,9 +3,9 @@ rem Recovery is TWRP 3.6.0_11 FBE v2 UNOFFICIAL by meganukebmp
 rem This is the only recovery that properly responds to command "twrp sideload"
 rem "cd %~dp0..\..\..\" - returns the programm to the root folder of the programm
 @echo off
-mode con:cols=15 lines=3
+mode con:cols=50 lines=3
 echo.
-echo Downloading recovery for curtana
+echo ---------Downloading recovery for curtana---------
 cd %~dp0..\..\..\
 mkdir %cd%\compatibility\temp   >nul 2>&1
 %cd%\curl\curl -L "https://drive.google.com/uc?export=download&id=1b1YQuZcc8gWUfaHwDUZrULJE8OSVq6Qc" -o %cd%\compatibility\temp\curtana.7z.001   >nul 2>&1
