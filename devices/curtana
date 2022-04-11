@@ -1,2 +1,16 @@
-"https://drive.google.com/uc?export=download&id=1b1YQuZcc8gWUfaHwDUZrULJE8OSVq6Qc"
-"https://drive.google.com/uc?export=download&id=15yTYuMU5oR5Rh_dhwI0EASIF6ZrtQH__"
+# importing the module
+#import json
+  
+# reading the data from the file
+#with open('dictionary.txt') as f:
+    #data = f.read()
+{
+"archived": "YES",
+"parts": 2,
+"link1": "https://drive.google.com/uc?export=download&id=1b1YQuZcc8gWUfaHwDUZrULJE8OSVq6Qc"
+"link2": "https://drive.google.com/uc?export=download&id=15yTYuMU5oR5Rh_dhwI0EASIF6ZrtQH__"
+"author": "meganukebmp"
+"name": "TWRP 3.6.0_11 FBE v2 UNOFFICIAL"
+}
+
+
