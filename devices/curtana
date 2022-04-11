@@ -1,9 +1,3 @@
-# importing the module
-#import json
-  
-# reading the data from the file
-#with open('dictionary.txt') as f:
-    #data = f.read()
 {
 "archived": "YES",
 "parts": 2,
