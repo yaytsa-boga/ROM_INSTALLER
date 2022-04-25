@@ -3,7 +3,6 @@ rom1,magisk
 rom1_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
 rom1_line_1,topjohnwu
 rom1_line_2,he is awesome
-
 rom2_count,2
 rom2,magisk_old
 rom2_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
