@@ -1,8 +1,9 @@
-archived, 1
-parts, 2
-link1, https://drive.google.com/uc?export=download&id=1b1YQuZcc8gWUfaHwDUZrULJE8OSVq6Qc
-link2, https://drive.google.com/uc?export=download&id=15yTYuMU5oR5Rh_dhwI0EASIF6ZrtQH__
-author, meganukebmp
-name, TWRP 3.6.0_11 FBE v2 UNOFFICIAL
-link1_size, 20480
-link2_size, 19614
+archived,1
+parts,2
+link1,https://drive.google.com/uc?export=download&id=1b1YQuZcc8gWUfaHwDUZrULJE8OSVq6Qc
+link1_exact_size,20 971 520
+link2,https://drive.google.com/uc?export=download&id=15yTYuMU5oR5Rh_dhwI0EASIF6ZrtQH__
+author,meganukebmp
+name,TWRP 3.6.0_11 FBE v2 UNOFFICIAL
+link1_size,20480
+link2_size,19614
