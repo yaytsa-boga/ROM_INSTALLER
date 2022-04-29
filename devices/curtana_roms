@@ -1,10 +1,8 @@
-rom1_count,1
-rom1,magisk
-rom1_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
-rom1_line_1,topjohnwu
-rom1_line_2,he is awesome
-rom2_count,2
-rom2,magisk_old
-rom2_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
-rom2_line_1,topjohnwu-lol
-rom2_line_2,he is awesome (?)
+rom_1,magisk
+magisk_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
+magisk_author,topjohnwu
+magisk_note,he is awesome
+rom_2,magisk_old
+magisk_old_link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
+magisk_old_author,towdfpjohnwu
+magisk_old_note,he fdis awesomed
