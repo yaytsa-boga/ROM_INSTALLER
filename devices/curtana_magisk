@@ -1,5 +1,5 @@
 link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
 author,topjohnwu
 note,he is awesome
-android,5-13
-link,https://github.com/topjohnwu/Magisk
+android=5-13
+more,https://github.com/topjohnwu/Magisk
