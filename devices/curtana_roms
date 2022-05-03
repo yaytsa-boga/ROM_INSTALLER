@@ -3,21 +3,23 @@
 
 "magisk":[
 
-{"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk},
-{"author": "topjohnwu},
-{"note": "he is awesome},
-{"android": "5-13}
+# 
 
+
+{"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk},
+{"name": "Magisk v 24 by topjohnwu"},
+{"show_text_file": "curtana_magisk"}
+{"recovery": "server"}
 ],
 
 "magisk_old":[
 
 {"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk},
-{"author": "topjohnwu_ilya},
-{"note": "sexy time},
-{"android": "5-1000}
+{"name": "Magisk v 24 by sxy popper"},
+{"show_text_file": "curtana_magisk"}
+{"recovery": "server"}
+],
 
-]
 
 
 
