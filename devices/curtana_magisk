@@ -1,5 +1,8 @@
-link,https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk
-author,topjohnwu
-note,he is awesome
-android,5-13
-more,https://github.com/topjohnwu/Magisk
+Introduction
+Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.
+Some highlight features:
+
+MagiskSU: Provide root access for applications
+Magisk Modules: Modify read-only partitions by installing modules
+MagiskBoot: The most complete tool for unpacking and repacking Android boot images
+Zygisk: Run code in every Android applications' processes
