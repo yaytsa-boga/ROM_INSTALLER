@@ -1,12 +1,7 @@
 {
 
 
-"magisk":[
 
-
-
-
-{
 "v24.3": [{
   "line1": "For those coming from v24.1, check the full changelog for changes introduced in v24.2.",
   "line2": "[General] Stop using getrandom syscall,
@@ -14,15 +9,9 @@
   "line4": "[App] Improve app repackaging installation workflow"
 
 
-}],
-
-"show_text_file": "curtana_magisk_info",
-"read_from": "curtana_magisk_verions",
-"recovery": "server"}
+}]
 
 
 
 
-
-
-]}
+}
