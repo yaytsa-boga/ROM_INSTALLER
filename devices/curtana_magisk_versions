@@ -9,6 +9,15 @@
   "line4": "[App] Improve app repackaging installation workflow"
 
 
+}],
+
+"v22.0": [{
+  "line1": "RESTORE THE EXISTING MAGISK MANAGER BACK TO NORMAL BEFORE UPGRADING IF HIDDEN!",
+  "line2": "Another major Magisk release! This time our focus is not the core Magisk implementation, but rather on improving the whole Magisk user experience.",
+  "line3": "Magisk Manager is dead."
+
+
+
 }]
 
 
