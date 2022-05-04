@@ -9,7 +9,8 @@
 {"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk",
 "name": "Magisk v 24 by topjohnwu",
 "show_text_file": "curtana_magisk",
-"recovery": "server"}
+"recovery": "server"},
+"versions": {"24": "verion", "25": "fdffsf"}
 ],
 
 "magisk_old":[
