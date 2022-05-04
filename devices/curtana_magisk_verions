@@ -7,11 +7,7 @@
 
 
 {
-"v24.3": "For those coming from v24.1, check the full changelog for changes introduced in v24.2.
-
-[General] Stop using getrandom syscall
-[Zygisk] Update API to v3, adding new fields to AppSpecializeArgs
-[App] Improve app repackaging installation workflow",
+"v24.3": "For those coming from v24.1, check the full changelog for changes introduced in v24.2. \n [General] Stop using getrandom syscall \n [Zygisk] Update API to v3, adding new fields to AppSpecializeArgs \n [App] Improve app repackaging installation workflow",
 
 "show_text_file": "curtana_magisk_info",
 "read_from": "curtana_magisk_verions",
