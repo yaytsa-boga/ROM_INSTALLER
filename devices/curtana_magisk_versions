@@ -6,7 +6,8 @@
   "line1": "For those coming from v24.1, check the full changelog for changes introduced in v24.2.",
   "line2": "[General] Stop using getrandom syscall",
   "line3": "[Zygisk] Update API to v3, adding new fields to AppSpecializeArgs",
-  "line4": "[App] Improve app repackaging installation workflow"
+  "line4": "[App] Improve app repackaging installation workflow",
+  "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk"
 
 
 }],
@@ -14,8 +15,9 @@
 "v22.0": [{
   "line1": "RESTORE THE EXISTING MAGISK MANAGER BACK TO NORMAL BEFORE UPGRADING IF HIDDEN!",
   "line2": "Another major Magisk release! This time our focus is not the core Magisk implementation, but rather on improving the whole Magisk user experience.",
-  "line3": "Magisk Manager is dead."
-
+  "line3": "Magisk Manager is dead.",
+  "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/Magisk-v22.0.apk"
+  
 
 
 }]
