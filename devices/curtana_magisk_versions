@@ -4,7 +4,7 @@
 
 "v24.3": [{
   "line1": "For those coming from v24.1, check the full changelog for changes introduced in v24.2.",
-  "line2": "[General] Stop using getrandom syscall,
+  "line2": "[General] Stop using getrandom syscall",
   "line3": "[Zygisk] Update API to v3, adding new fields to AppSpecializeArgs",
   "line4": "[App] Improve app repackaging installation workflow"
 
