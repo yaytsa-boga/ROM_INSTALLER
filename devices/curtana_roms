@@ -11,6 +11,12 @@
 "name": "Fork LineageOS",
 "show_text_file": "curtana_ForkLineageOS_info",
 "read_from": "curtana_ForkLineageOS_verions"
+}],
+
+"ArrowOS":[{
+"name": "ArrowOS",
+"show_text_file": "curtana_ArrowOS_info",
+"read_from": "curtana_ArrowOS_verions"
 }]
 
 }
