@@ -1,5 +1,10 @@
 {
 
+"STOCK_MIUI":[{
+"name": "STOCK_MIUI",
+"show_text_file": "curtana_STOCK_MIUI_info",
+"read_from": "curtana_STOCK_MIUI_verions"
+}],
 
 "ForkLineageOS":[{
 "name": "Fork LineageOS",
@@ -13,10 +18,11 @@
 "read_from": "curtana_ArrowOS_verions"
 }],
 
-"STOCK_MIUI":[{
-"name": "STOCK_MIUI",
-"show_text_file": "curtana_STOCK_MIUI_info",
-"read_from": "curtana_STOCK_MIUI_verions"
+"Firmware":[{
+"name": "Firmware",
+"show_text_file": "curtana_Firmware_info",
+"read_from": "curtana_Firmware_verions"
 }]
+
 
 }
