@@ -7,10 +7,10 @@
 "read_from": "curtana_magisk_verions"
 }],
 
-"magisk_old":[{
-"name": "also Magisk v 24",
-"show_text_file": "curtana_magisk_old_info",
-"read_from": "curtana_magisk_old_verions"
+"ForkLineageOS":[{
+"name": "Fork LineageOS",
+"show_text_file": "curtana_ForkLineageOS_info",
+"read_from": "curtana_ForkLineageOS_verions"
 }]
 
 }
