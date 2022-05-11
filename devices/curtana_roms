@@ -11,6 +11,12 @@
 "name": "ArrowOS",
 "show_text_file": "curtana_ArrowOS_info",
 "read_from": "curtana_ArrowOS_verions"
+}],
+
+"STOCK_MIUI":[{
+"name": "STOCK_MIUI",
+"show_text_file": "curtana_STOCK_MIUI_info",
+"read_from": "curtana_STOCK_MIUI_verions"
 }]
 
 }
