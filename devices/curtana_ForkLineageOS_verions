@@ -2,7 +2,7 @@
 
 
 
-"12L_23.04.2022_GAPPS": [{
+"12LPPS": [{
   "line1": "April Security Patch and source rebased to 12L",
   "line2": "Kernel upstream to latest CAF tags",
   "line3": "---",
@@ -14,7 +14,7 @@
 
 }],
 
-"12L_23.04.2022_VANILLA": [{
+"12LLA": [{
   "line1": "April Security Patch and source rebased to 12L",
   "line2": "Kernel upstream to latest CAF tags",
   "line3": "---",
