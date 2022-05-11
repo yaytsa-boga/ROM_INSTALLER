@@ -2,26 +2,26 @@
 
 
 
-"12LGAPPS": [{
+"12L_23.04.2022_GAPPS": [{
   "line1": "April Security Patch and source rebased to 12L",
   "line2": "Kernel upstream to latest CAF tags",
   "line3": "---",
   "line4": "AOD might not work properly so avoid using it",
   "line5": "Clean Flash mandatory",
   "line6": "Safetynet passes with/without magisk",
-  "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.1-FORK-GAPPS-20220423-1741-miatoll.zip"
+  "link": "https://spammers-bot.manavjit9.workers.dev/0/lineage-19.1-FORK-GAPPS-20220423-1741-miatoll.zip"
 
 
 }],
 
-"12LVANILLA": [{
+"12L_23.04.2022_VANILLA": [{
   "line1": "April Security Patch and source rebased to 12L",
   "line2": "Kernel upstream to latest CAF tags",
   "line3": "---",
   "line4": "AOD might not work properly so avoid using it",
   "line5": "Clean Flash mandatory",
   "line6": "Safetynet passes with/without magisk",
-  "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.1-FORK-vanilla-20220423-1808-miatoll.zip"
+  "link": "https://spammers-bot.manavjit9.workers.dev/0/lineage-19.1-FORK-vanilla-20220423-1808-miatoll.zip"
 
 
 }]
