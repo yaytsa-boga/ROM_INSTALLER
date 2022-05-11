@@ -9,6 +9,9 @@
   "line4": "AOD might not work properly so avoid using it",
   "line5": "Clean Flash mandatory",
   "line6": "Safetynet passes with/without magisk",
+  "line7": " ",
+  "line8": "DONATE: https://www.paypal.me/sairam60",
+  "line9": " ",
   "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.1-FORK-GAPPS-20220423-1741-miatoll.zip"
 
 
@@ -21,9 +24,10 @@
   "line4": "AOD might not work properly so avoid using it",
   "line5": "Clean Flash mandatory",
   "line6": "Safetynet passes with/without magisk",
+  "line7": " ",
+  "line8": "DONATE: https://www.paypal.me/sairam60",
+  "line9": " ",
   "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.1-FORK-vanilla-20220423-1808-miatoll.zip"
-
-
 }],
 
 
@@ -35,16 +39,21 @@
   "line7": " ",
   "line5": "DONATE: https://www.paypal.me/sairam60",
   "line6": " ",
-  "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.1-FORK-GAPPS-20220423-1741-miatoll.zip"
-
+  "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.0-FORK-GAPPS-20220215-0327-miatoll.zip"
 
 }],
 
 "12L_15.02.2022_VANILLA": [{
-  "line1": "April Security Patch and source rebased to 12L",
+  "line1": "February Security patch merged",
+  "line2": "Fixed weather on lockscreen",
+  "line3": "Fixed HDR not working on netflix",
+  "line4": "Fixed some issues with reboot tile",
+  "line7": " ",
+  "line5": "DONATE: https://www.paypal.me/sairam60",
+  "line6": " ",
+  "link": "https://spammers-bot.manavjit9.workers.dev/0:/lineage-19.0-FORK-vanilla-20220215-0359-miatoll.zip"
 
-
-}],
+}]
 
 
 
