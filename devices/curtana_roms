@@ -1,14 +1,13 @@
 {
 
 "magisk":[{
-"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk",
+
 "name": "Magisk by topjohnwu",
 "show_text_file": "curtana_magisk_info",
 "read_from": "curtana_magisk_verions"
 }],
 
 "magisk_old":[{
-"link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk",
 "name": "also Magisk v 24",
 "show_text_file": "curtana_magisk_old_info",
 "read_from": "curtana_magisk_old_verions"
