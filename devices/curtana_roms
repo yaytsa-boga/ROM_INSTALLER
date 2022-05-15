@@ -22,7 +22,7 @@
 
 "DUMMY_ZIP":[{
 "name": "Magisk",
-"read_from": "curtana_mg_versions"
+"read_from": "curtana_Magisk_versions"
 }],
 
 "CrDroid":[{
