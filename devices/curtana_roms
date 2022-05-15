@@ -2,37 +2,31 @@
 
 "STOCK_MIUI":[{
 "name": "STOCK_MIUI",
-"show_text_file": "curtana_STOCK_MIUI_info",
 "read_from": "curtana_STOCK_MIUI_versions"
 }],
 
 "ForkLineageOS":[{
 "name": "Fork LineageOS",
-"show_text_file": "curtana_ForkLineageOS_info",
 "read_from": "curtana_ForkLineageOS_versions"
 }],
 
 "ArrowOS":[{
 "name": "ArrowOS",
-"show_text_file": "curtana_ArrowOS_info",
 "read_from": "curtana_ArrowOS_versions"
 }],
 
 "Firmware":[{
 "name": "Firmware",
-"show_text_file": "curtana_Firmware_info",
 "read_from": "curtana_Firmware_versions"
 }],
 
 "DUMMY_ZIP":[{
 "name": "Magisk",
-"show_text_file": "curtana_mg_info",
 "read_from": "curtana_mg_versions"
 }],
 
 "CrDroid":[{
 "name": "CrDroid",
-"show_text_file": "curtana_CrDroid_info",
 "read_from": "curtana_CrDroid_versions"
 }]
 
