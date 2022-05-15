@@ -20,7 +20,7 @@
 "read_from": "curtana_Firmware_versions"
 }],
 
-"DUMMY_ZIP":[{
+"Magisk":[{
 "name": "Magisk",
 "read_from": "curtana_Magisk_versions"
 }],
