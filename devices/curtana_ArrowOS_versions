@@ -2,25 +2,39 @@
 
 
 
-"12L_16.04.2022_GAPPS": [{
-  "author": "Maintainer @SonalSingh18",
-  "line0": " ",
-  "line1": "CHANGELOG: telegra.ph/ArrowOS-121-Official-Miatoll-Changelogs-04-16",
-  "line7": " ",
-  "line8": "DONATE: <a>https://www.paypal.me/Sonal18</a>",
-  "line9": " ",
+"12L_16.04.2022_G": [{
+  "changelog": [
+"ArrowOS 12.1 | OFFICIAL ~ Miatoll",
+"Android: 12L",
+"WITH GOOGLE APPS",
+"Build date: 16.04.2022",
+"Maintaner: @SonalSingh18",
+"- Initial Official 12.1 Build"
+],
+ 
+
+"about": [
+"ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day, aiming to deliver smooth performance with better battery life."
+],
   "link": "https://get.mirror1.arrowos.net/download.php?token=AYhVng84afvXqLjeyMJZorDlt397puQbUwi6WETCHcBIzxR2KkN51smdFOPS&version=arrow-12.1&variant=official&device=miatoll"
 
 
 }],
 
 "12L_16.04.2022_VANILLA": [{
-  "author": "Maintainer @SonalSingh18",
-  "line0": " ",
-  "line1": "CHANGELOG: telegra.ph/ArrowOS-121-Official-Miatoll-Changelogs-04-16",
-  "line7": " ",
-  "line8": "DONATE: https://www.paypal.me/Sonal18",
-  "line9": " ",
+  "changelog": [
+"ArrowOS 12.1 | OFFICIAL ~ Miatoll",
+"Android: 12L",
+"WITH GOOGLE APPS",
+"Build date: 16.04.2022",
+"Maintaner: @SonalSingh18",
+"- Initial Official 12.1 Build"
+],
+ 
+
+"about": [
+"ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day, aiming to deliver smooth performance with better battery life."
+],
   "link": "https://get.mirror1.arrowos.net/download.php?token=fm3zZF8LNwbQlixsdRAh9WjcSEIYrkDqXuJ2B47eatUC5Tng1HKGMoyOVPp0&version=arrow-12.1&variant=official&device=miatoll"
 
 
