@@ -4,7 +4,7 @@
 
 "12L_16.04.2022_GAPPS": [{
   "author": "Maintainer @SonalSingh18",
-  "line0": [
+  "changelog": [
   "• May security patch ",
 "• Gcam go updated from arrowOS github ",
 "• Add a shim to silence default audio ",
