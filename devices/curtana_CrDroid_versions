@@ -16,13 +16,15 @@
 "- Dfc kernel by default",
 "- Ims updated from alioth ",
 "- Add depth sensor thnx to @SonalSingh18"
+],
+  
+  "about": [
+
+"THIS IS UNOFFICIAL BUILD"
+],
   
 
-  
-  ],
-
-  "link": "https://get.mirror1.arrowos.net/download.php?token=AYhVng84afvXqLjeyMJZorDlt397puQbUwi6WETCHcBIzxR2KkN51smdFOPS&version=arrow-12.1&variant=official&device=miatoll"
-
+"link": "https://popodrive.lindu788.workers.dev/0:/atoll-popo/crDroidAndroid-11.0-20220515-miatoll-v7.18.zip"
 
 }]
 
