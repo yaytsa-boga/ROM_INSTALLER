@@ -22,7 +22,7 @@
 "name": "Firmware",
 "show_text_file": "curtana_Firmware_info",
 "read_from": "curtana_Firmware_versions"
-}]
+}],
 
 "CrDroid":[{
 "name": "CrDroid",
