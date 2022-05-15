@@ -39,9 +39,9 @@
  
 
 "about": [
-"ArrowOS is an AOSP based project started with the aim of keeping things simple, clean and neat. We added just the right and mostly used stuff that will be actually USEFUL at the end of the day, aiming to deliver smooth performance with better battery life."
+"Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0."
 ],
-  "link": "https://get.mirror1.arrowos.net/download.php?token=fm3zZF8LNwbQlixsdRAh9WjcSEIYrkDqXuJ2B47eatUC5Tng1HKGMoyOVPp0&version=arrow-12.1&variant=official&device=miatoll"
+  "link": "https://github.com/topjohnwu/Magisk/releases/download/v24.3/Magisk-v24.3.apk"
 
 
 }]
