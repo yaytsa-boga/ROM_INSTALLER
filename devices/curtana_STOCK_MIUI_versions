@@ -3,10 +3,17 @@
 
 
 "V12.5.5.0.RJWMIXM": [{
-  "author": "Maintainer @XIAOMI",
-  "line0": " ",
-  "line1": "OFFICIAL ROM",
-  "line9": " ",
+"changelog": [
+"Maintainer @XIAOMI",
+"OFFICIAL ROM"
+],
+ 
+
+"about": [
+"MIUI's intuitive interface, gorgeous themes, and lots of handy features make it one of the most popular custom ROMs for Android."
+],
+
+
   "link": "https://bigota.d.miui.com/V12.5.5.0.RJWMIXM/miui_CURTANAGlobal_V12.5.5.0.RJWMIXM_bf1b7512cd_11.0.zip"
 
 
